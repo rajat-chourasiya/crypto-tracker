@@ -1,4 +1,4 @@
-# ⚛️ React + Vite + TypeScript App
+# Crypto-Tracker (React + Vite + TypeScript) App
 
 This is a modern React application built with Vite, TypeScript, Tailwind CSS, Redux Toolkit, and React Query. It uses scalable patterns, live data fetching, and global state management to create a responsive and performant front-end.
 
